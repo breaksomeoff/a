@@ -51,7 +51,6 @@ else {
 		
 	<tr>
 	<td class="AccManage">	<%=utente.getLogin()%></td>
-	<td class="AccManage">	<%=utente.getPass()%></td>
 	<td class="AccManage">	<%=utente.getNome()%></td>
 	<td class="AccManage">	<%=utente.getCognome()%></td>
 	<td class="AccManage">	<%=utente.getQuantity()%></td>
