@@ -43,7 +43,7 @@ else {
 		<%
 		if (Users != null && Users.size() != 0) {
 			Iterator<?> it = Users.iterator();
-			while(it.hasNext()) { //while
+			while(it.hasNext()) { 
 				User utente = (User) it.next();
 	%>
 
